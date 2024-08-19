@@ -1,8 +1,8 @@
-/*
+/*    
     IMPORTANTE
     Para ejecutar el ejemplo:
     -> Crea un nuevo proyecto en NetBeans
-    -> Copia y pega el código que se encuentra dentro del método MAIN de este archivo y
+    -> Copia el código que se encuentra dentro del método MAIN de este archivo y
        pegalo dentro del método MAIN de tu proyecto.
 */
 public class variables {
