@@ -6,7 +6,7 @@ Para ejecutar los ejemplos:
    -> Crea un nuevo proyecto en NetBeans
 ```
 ```bash
-  -> Copia el código que se encuentra dentro de la clase main deL archivo
+  -> Copia el código que se encuentra dentro de la clase main del archivo
 ```
 
 
