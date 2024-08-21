@@ -14,6 +14,6 @@ REQUISITOS:
 Usa un switch para aplicar el descuento correspondiente:
 REGULAR: 5% DCTO.
 MIEMBRO: 10% DCTO.
-VIP: 20% DCTO.
+VIP: 25% DCTO.
 
 MUESTRA EL PRECIO FINAL DEL PRODUCTOS DESPUES DE APLICAR EL DCTO.
