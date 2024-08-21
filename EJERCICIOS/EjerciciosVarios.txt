@@ -1,0 +1,34 @@
+SISTEMA DE SELECCION DE PLAN DE DATOS
+
+Una compañía de telecomunicaciones ofrece diferentes planes de datos a sus clientes, dependiendo de su uso mensual de internet:
+
+Menos de 5 GB: PLAN BASICO
+Entre 5 GB y 10 GB: PLAN INTERMEDIO
+Más de 10 GB: PLAN AVANZADO
+
+Requerimientos:
+
+1.- Desarrolla un programa que solicite al usuario el consumo mensual de datos.
+2.- Determina y muestra el plan de datos más adecuado para el usuario.
+
+================================================================================================================
+
+CALCULADORA DE INTERESES BANCARIOS
+
+Un banco ofrece diferentes tasas de interés dependiendo del tipo de cuenta que el cliente tenga. 
+Las tasas de interés son:
+
+Cuenta de AHORROS: 1.5% anual.
+Cuenta CORRIENTE: 0.5% anual.
+Cuenta a PLAZO FIJO: 3.5% anual.
+
+Requerimientos:
+1.- Solicita al usuario seleccionar tipo de cuenta (Ahorros, Corriente, Plazo Fijo)
+2.- Solicita al usuario ingresar la cantidad de monto a depositar
+3.- Valida que el monto ingresado sea un número positivo y que el tipo de cuenta sea válido.
+4.- Muestra el interés anual que se generará.
+
+CALCULO DE INTERESES
+    interes = montoDepositado * porcentajeInteres
+
+================================================================================
