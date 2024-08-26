@@ -1,0 +1,27 @@
+CLASIFICACION DE EDAD:
+
+Desarrolla un programa que clasifique a una persona según su edad. 
+Se deben utilizar estructuras if-else para determinar la categoría de la persona
+
+INSTRUCCIONES: 
+1.- SOLICITA AL USUARIO INGRESAR SU EDAD
+2.- CLASIFICA LA EDAD EN LAS SIGUIENTES CATEGORÍAS:
+    - NIÑO/A : 0 - 12 años
+    - ADOLESCENTE: 13 - 17 años
+    - ADULTO: 18 - 64 años
+    - ADULTO MAYOR: 65 años
+
+Muestra la categoría correspondiente en pantalla.
+
+=======================================================================================================================
+
+CONVERSION DE UNIDADES
+
+Desarrolla un programa que convierta una cantidad dada de una unidad de medida a otra según la elección del usuario.
+
+1.- INGRESAR LA CANTIDAD EN METROS
+2.- SELECCIONAR LA UNIDAD DE CONVERSION
+    - METRO A KILOMETROS -> metros / 1000
+    - METROS A CENTIMETROS -> metros * 100
+    - METROS A MILIMETROS -> metros * 1000
+3.- MOSTRAR LA CONVERSION
