@@ -1,0 +1,29 @@
+EJERICIO 1: 
+Desarrolla un programa que tome un número (1-12) y muestre el nombre del 
+mes correspondiente (1 para enero, 2 para febrero, etc.) utilizando switch-case.
+
+EJERICIO 2:  (switch - case)
+Escribe un programa que solicite el ingreso de dos números y permita seleccionar una operación 
+    1.- suma 
+    2.- resta
+    3.- multiplicación
+    4.- división
+el programa debe realizar el calculo y mostrar por pantalla el resultado.
+
+EJERCICIOS 3:
+Desarrolla un programa que presente un menú con 4 opciones 
+1 para ver el saldo, 2 para depositar dinero, 3 para retirar dinero, 4 para salir. 
+El programa debe realizar la acción correspondiente utilizando switch-case.
+Puedes predeterminar un saldo a la cuenta y poder realizar las operaciones.
+
+EJERCICIO 4 - Cálculo de tarifa de envío (if - else)
+Desarrolla un programa que calcule la tarifa de envío basada en el peso de un paquete. Por ejemplo:
+    Menos de 1 kg: $2500
+    Entre 1 y 5 kg: $8000
+    Entre 5 y 10 kg: $13000
+    Más de 10 kg: $20000
+
+EJERCICIO 5 - SALUDO PERSONALIZADO (switch - case)
+Desarrolla un programa que muestre un menú con opciones para elegir un idioma 
+1 para inglés, 2 para español, 3 para francés, 4 para italiano. 
+Muestra un saludo en el idioma seleccionado utilizando switch-case.
