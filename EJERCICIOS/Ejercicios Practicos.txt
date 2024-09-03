@@ -1,8 +1,8 @@
-EJERICIO 1: 
+EJERCICIO 1: 
 Desarrolla un programa que tome un número (1-12) y muestre el nombre del 
 mes correspondiente (1 para enero, 2 para febrero, etc.) utilizando switch-case.
 
-EJERICIO 2:  (switch - case)
+EJERCICIO 2:  (switch - case)
 Escribe un programa que solicite el ingreso de dos números y permita seleccionar una operación 
     1.- suma 
     2.- resta
@@ -10,7 +10,7 @@ Escribe un programa que solicite el ingreso de dos números y permita selecciona
     4.- división
 el programa debe realizar el calculo y mostrar por pantalla el resultado.
 
-EJERCICIOS 3:
+EJERCICIO 3:
 Desarrolla un programa que presente un menú con 4 opciones 
 1 para ver el saldo, 2 para depositar dinero, 3 para retirar dinero, 4 para salir. 
 El programa debe realizar la acción correspondiente utilizando switch-case.
