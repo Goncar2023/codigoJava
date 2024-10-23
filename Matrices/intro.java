@@ -41,7 +41,7 @@ public static void main(String[] args) {
         {4.5, 7.0, 1.0}
     };
     
-    //PARA FORMATERA NUMERO DECIMALES
+    //PARA FORMATEAR NUMERO DECIMALES
     DecimalFormat df = new DecimalFormat("#.0"); //UN DECIMAL DESPUES DE LA COMA
     
     //FOR ANIDADO PARA LEER LAS MATRICES
@@ -50,6 +50,7 @@ public static void main(String[] args) {
         for(int columnas = 0; promedios[filas].length < 3; columnas++){
             promGeneral += promedios[filas][columnas];
         }
+        //df.format -> para el formatear
         System.out.println("PROMEDIO "+(df.format(promGeneral/3)));
     }
 
